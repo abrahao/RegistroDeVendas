@@ -7,7 +7,7 @@
             alt="logo" /></a>
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center flex-grow-1">
-        <h5 class="mb-0 font-weight-medium d-none d-lg-flex">Registro de Vendas</h5>
+        <h5 class="mb-0 font-weight-medium d-none d-lg-flex"></h5>
         <ul class="navbar-nav navbar-nav-right ">
             <li class="nav-item dropdown d-none d-xl-inline-flex user-dropdown">
                 <a class="nav-link dropdown-toggle"><br>
